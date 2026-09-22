@@ -10,8 +10,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Data%20Science-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/10th-89%25-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/12th-64%25-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/10th-91%25-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/12th-76%25-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
   <img src="https://img.shields.io/badge/India-Bhubaneswar-4338CA?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
